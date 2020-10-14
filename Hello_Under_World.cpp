@@ -8,7 +8,7 @@ using namespace std;
 int main()
 {
     cout << "Hello World!\n";
-
+    // wwwwwwwwwwwwwwwwwwwwwwwwwww
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
